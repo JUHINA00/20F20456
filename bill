@@ -1,3 +1,4 @@
 read pric1, price2
 print p1, p2
-with discout
+with discout and print it again
+another print with anouther discount
